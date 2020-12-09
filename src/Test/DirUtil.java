@@ -36,7 +36,11 @@ public class DirUtil {
 		System.out.println(filet.isFile());
 		
 		System.out.println(dir_curr.isFile());
+	
+		String z=null;
 	}
+	
+	
 	
 	//riceve un oinsieme di stringhe e crea un insieme di direectory
 	//cancella le direcotry con quel nome
